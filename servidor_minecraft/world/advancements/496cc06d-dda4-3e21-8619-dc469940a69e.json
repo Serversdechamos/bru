@@ -1348,6 +1348,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-11-27 22:26:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2024-11-27 22:05:20 +0000"
@@ -1372,6 +1378,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:31:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 22:29:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "rice": "2024-11-27 22:11:19 +0000"
@@ -1385,6 +1403,24 @@
       "trickor_treat_5": "2024-11-27 22:13:14 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-11-27 22:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-11-27 22:29:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 22:29:53 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
@@ -1440,6 +1476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:31:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2024-11-27 22:05:20 +0000"
@@ -1455,6 +1497,12 @@
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2024-11-27 22:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:31:46 +0000"
     },
     "done": true
   },
@@ -1476,6 +1524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:31:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2024-11-27 22:05:20 +0000"
@@ -1494,9 +1548,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-11-27 22:29:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2024-11-27 22:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:31:46 +0000"
     },
     "done": true
   },
@@ -1506,9 +1572,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:31:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-11-27 21:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:31:46 +0000"
     },
     "done": true
   },
@@ -1536,6 +1620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-11-27 22:29:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2024-11-27 22:14:45 +0000"
@@ -1545,6 +1635,12 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2024-11-27 22:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/fossil": {
+    "criteria": {
+      "tar_fossil": "2024-11-27 22:30:34 +0000"
     },
     "done": true
   },
@@ -1560,6 +1656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:31:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2024-11-27 22:05:27 +0000"
@@ -1569,6 +1671,12 @@
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2024-11-27 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/sludge": {
+    "criteria": {
+      "killed_sludge": "2024-11-27 22:31:27 +0000"
     },
     "done": true
   },
