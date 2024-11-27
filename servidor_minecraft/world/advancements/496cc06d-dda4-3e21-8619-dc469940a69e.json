@@ -56,7 +56,9 @@
       "minecraft:dripstone_caves": "2024-11-26 23:18:42 +0000",
       "minecraft:snowy_taiga": "2024-11-26 23:17:06 +0000",
       "minecraft:grove": "2024-11-26 23:16:48 +0000",
-      "minecraft:jagged_peaks": "2024-11-26 23:14:30 +0000"
+      "minecraft:jagged_peaks": "2024-11-26 23:14:30 +0000",
+      "minecraft:forest": "2024-11-27 22:54:08 +0000",
+      "minecraft:plains": "2024-11-27 22:54:44 +0000"
     },
     "done": false
   },
@@ -351,6 +353,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-26 23:51:03 +0000",
+      "minecraft:magma_cube": "2024-11-27 22:46:04 +0000",
       "minecraft:spider": "2024-11-26 23:31:51 +0000",
       "minecraft:wither_skeleton": "2024-11-27 00:13:37 +0000",
       "minecraft:husk": "2024-11-26 23:56:50 +0000",
@@ -898,6 +901,7 @@
     "criteria": {
       "muskeg": "2024-11-27 22:11:17 +0000",
       "snowblossom_grove": "2024-11-27 22:01:43 +0000",
+      "coniferous_forest": "2024-11-27 22:54:54 +0000",
       "old_growth_dead_forest": "2024-11-27 00:05:48 +0000",
       "dead_forest": "2024-11-26 23:48:06 +0000",
       "glowing_grotto": "2024-11-27 00:07:24 +0000",
@@ -1330,6 +1334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2024-11-27 22:49:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-11-27 22:11:58 +0000"
@@ -1351,6 +1361,12 @@
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2024-11-27 22:26:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:59:46 +0000"
     },
     "done": true
   },
@@ -1396,6 +1412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-11-27 23:00:35 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
       "trickor_treat_0": "2024-11-27 22:13:14 +0000",
@@ -1403,6 +1425,24 @@
       "trickor_treat_5": "2024-11-27 22:13:14 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:59:46 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulstealer": {
+    "criteria": {
+      "requirement": "2024-11-27 22:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-11-27 22:56:52 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
@@ -1425,6 +1465,12 @@
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2024-11-27 22:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-11-27 23:01:18 +0000"
     },
     "done": true
   },
@@ -1458,9 +1504,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2024-11-27 22:49:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2024-11-27 22:25:06 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-11-27 22:49:27 +0000"
     },
     "done": true
   },
@@ -1476,9 +1534,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:59:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-11-27 22:31:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2024-11-27 22:59:46 +0000"
     },
     "done": true
   },
@@ -1494,6 +1564,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:59:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2024-11-27 22:11:19 +0000"
@@ -1506,9 +1582,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:59:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice_spikes": {
     "criteria": {
       "has_item": "2024-11-27 22:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-11-27 22:45:08 +0000"
     },
     "done": true
   },
@@ -1521,6 +1609,12 @@
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2024-11-27 22:05:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:59:46 +0000"
     },
     "done": true
   },
@@ -1542,6 +1636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2024-11-27 22:49:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2024-11-27 22:22:45 +0000"
@@ -1551,6 +1651,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-11-27 22:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2024-11-27 22:49:24 +0000"
     },
     "done": true
   },
@@ -1569,6 +1675,12 @@
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2024-11-27 22:05:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-11-27 22:43:17 +0000"
     },
     "done": true
   },
@@ -1596,6 +1708,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2024-11-27 22:59:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:59:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2024-11-27 22:05:20 +0000"
@@ -1614,9 +1738,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-27 22:59:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_white_petals": {
     "criteria": {
       "has_flower": "2024-11-27 22:11:09 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-11-27 22:55:05 +0000"
     },
     "done": true
   },
@@ -1647,6 +1783,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
     "criteria": {
       "has_dragonscales_sapphire": "2024-11-27 22:25:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2024-11-27 22:59:11 +0000"
     },
     "done": true
   },
