@@ -860,3 +860,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [27Nov2024 22:53:51.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
 [27Nov2024 22:54:47.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [27Nov2024 22:55:05.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Amateur Archaeologist]
+[27Nov2024 23:10:14.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Life turned out to be a comedy]
+[27Nov2024 23:10:24.701] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11550, l='ServerLevel[world]', x=-178.29, y=72.00, z=1171.15] died, message: 'Unemployed was slain by Zombie'
+[27Nov2024 23:14:34.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Timed out
+[27Nov2024 23:14:34.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
